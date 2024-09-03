@@ -3,11 +3,11 @@ import json
 import os
 
 # GitHub repository details
-REPO_OWNER = "kdbahi"
+REPO_OWNER = "kdbhai"
 REPO_NAME = "CI-CD_Pipeline_Assigment"
 
 # GitHub personal access token
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 
 def get_commits():
     """Fetch latest commits from GitHub API"""
